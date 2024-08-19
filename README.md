@@ -1,6 +1,6 @@
 ![1500x500 perennial](https://github.com/equilibria-xyz/perennial-v2/assets/747165/ef24cb94-b774-428f-9a5f-7ee7b347a36c)
 
-🌸 Perennial V2 is a general-purpose synthetic derivatives primitive for decentralized finance.
+🌸 Perennial is a powerful DeFi primitive built from first-principles to scale to the needs of traders, liquidity providers, and developers.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/perenniallabs?style=for-the-badge)
 
